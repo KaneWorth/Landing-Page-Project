@@ -13,6 +13,8 @@ I will say, doing this project made my confidence skyrocket when using the flexb
 
 So much so, I actually went on to re-design all of my personal projects outside of the course using the flex box method and made them look good.
 
+Because of this project, I am now able to confidently position almost anything anywhere I wish on the screen. It was a fantast challenge and well worth the reward of seeing the final product on my browser when I had finished it.
+
 The page is not responsive for smaller screens, but that is okay, the purpose was to simply make it look like the image they provided us with. Functionality and responsiveness was not part of the project. It is simply a template.
 
 Credits to the odin project. Link to the exact project can be found here: https://www.theodinproject.com/lessons/foundations-landing-page#setting-up-your-projects-github-repository
